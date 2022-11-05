@@ -1,0 +1,1 @@
+master ikinci commit için bu satırı yazıyorum. (ilk commit, bu dosyaları oluşturduktan sonra kaydetme işleminden sonra yapılmıştı.)
