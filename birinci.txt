@@ -1,1 +1,3 @@
 master ikinci commit için bu satırı yazıyorum. (ilk commit, bu dosyaları oluşturduktan sonra kaydetme işleminden sonra yapılmıştı.)
+
+master branch'ında üçüncü committi oluşturmak için bu satırı yazıyorum. (ikinci commiti birinci satırda oluşturmuştum, hemen üstteki)
