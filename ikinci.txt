@@ -1,2 +1,3 @@
 Master branch üzerinde yapılan işlemin commit mesajını GitHub üzerinde görmeyi denedim. 
 
+Master branch üzerinde yapılan işlemin commit mesajını GitHub üzerinde görmeyi denedim. 
