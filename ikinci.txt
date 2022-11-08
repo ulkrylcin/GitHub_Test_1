@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 feat branch'a atılan ilk commiti oluşturmak için bu satırı yazdım.
 
-feat'in de ikinci commit'i olmasın mı? olsun dedim ve bu satırı yazdım.
+feat'in de ikinci commit'i olmasın mı? olsun dedim ve bu satırı yazdım. 
 
-=======
-Master branch üzerinde yapılan işlemin commit mesajını GitHub üzerinde görmeyi denedim. 
 
-Master branch üzerinde yapılan işlemin commit mesajını GitHub üzerinde görmeyi denedim. 
->>>>>>> master
+
